@@ -1,4 +1,4 @@
-# Wizards Icecreams #
+# Wizards Icecreams 🍦🧙‍♂️#
 
 Welcome to the official repository for Wizards Ice Creams! This repository contains the code for the website of Wizards Ice Creams, showcasing a variety of delicious ice cream flavors and allowing customers to get in touch. Below, you'll find an overview of the structure and content of this repository.
 
